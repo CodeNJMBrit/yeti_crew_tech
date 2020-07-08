@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
-gem 'rails', '~> 5.2.3'
+gem 'rails', '~> 6.0.3'
 gem 'sqlite3'
 gem 'mysql2'
 gem 'puma', '~> 3.12.4'
